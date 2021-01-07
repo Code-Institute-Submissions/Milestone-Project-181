@@ -3,7 +3,7 @@
 A personal portfolio site to display my education, skills and experience.
 It will be used as a basis to show to future recruiters that would have need of my skills and experience.
 It will have 3 pages, a homepage with my basic information, another page showcasing skills and experience and another for projects.
-It might have a contact form page, i need to figure out how to make sure that anyone who sends an email to me is security protected.
+
 
 UX:
 
