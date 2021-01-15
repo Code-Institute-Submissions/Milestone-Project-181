@@ -1,16 +1,30 @@
 # Milestone-Project-1
-1st Project for Code Institute. 
-A personal portfolio site to display my education, skills and experience.
-It will be used as a basis to show to future recruiters that would have need of my skills and experience.
-It will have 3 pages, a homepage with my basic information, another page showcasing skills and experience and another for projects.
+Milestone Project 1-User-Centric Frontend Development - Code Institute
+Sean Dolan Personal Portfolio  
+A personal portfolio site to display my education, skills and experience to prospective employers.
+
+The portfolio has a couple of pages,a homepage describing a bit about myself, skills and experience I have,
+projects I have completed,a contact form and a page where you can download my CV.
+
+[Link to website](https://seand17.github.io/Milestone-Project-1/) here to see the website in action.
 
 UX:
-This website is focused on employers and recruiters who are looking for potential candidates based on their skills and experience. 
-It makes it easier for recruiters to find potential candidates instead of having to look through multiple cvs.
-This project is the best way to help them achieve these things.
-Wireframes were created showcasing the three pages of the website.
-One wireframe showcases the pages viewed on a web browser, another on a smartphone and another on a tablet.
-Wireframes are in pdf format and are in the wireframes directory.
+
+User Stories
+
+Recruiters like me would like to see the skills this person has listed on this website
+
+Employers like me would like to see the experience this person has listed on this website.
+
+Wireframes
+
+I have included wireframes for each page on this website, click on the below page names to see these wireframes:
+
+[Homepage]()
+[Skills & Experience]()
+[Projects]()
+[Contact]()
+[Download CV]()
 
 Features
 
@@ -20,12 +34,10 @@ Feature 1 -
 Features Left to Implement:
 
 Technologies Used:
-HTML
-https://html.com/
+[HTML](https://html.com/)
 Used to create the structure of the web site.
 
-CSS
-https://www.w3schools.com/css/css_intro.asp
+[CSS](https://www.w3schools.com/css/css_intro.asp)
 Used to style the website
 
 Testing:
@@ -34,10 +46,12 @@ Deployment:
 
 Credits
 Content:
-The text for section  was copied from the 
+All text content in this website was written by me.
 
 Media:
 The photos used in this site were obtained from 
 
 Acknowledgements:
-I received inspiration for this project from 
+I received inspiration for this project from my mentor 
+
+I also received inspiration from an Bootstrap mini project that was taught to use as part of our course
