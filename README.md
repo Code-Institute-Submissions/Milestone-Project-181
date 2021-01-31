@@ -65,7 +65,9 @@ Content:
 All text content in this website was written by me.
 
 Media:
-The photos used in this site were obtained from 
+The photos used in this site were obtained from:
+
+<span>Background photo by <a href="https://unsplash.com/@laurenmancke?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Lauren Mancke</a> on <a href="https://unsplash.com/s/photos/portfolio-background?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
 
 Acknowledgements:
 I received inspiration for this project from my mentor 
