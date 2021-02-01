@@ -10,11 +10,15 @@ footer {
 .social-links li a i:hover {
     background: #e84610;
 }
-.myself{
-     background-image: url('/images/Myself.jpg');    
+#myself{
+    background-attachment: fixed;
+    background-image: url('../images/myself.png');
     background-position: center;
+    background-size: cover;
 }
-.background-image{
-    background-image: url('/images/background.jpg');
-    background-repeat: repeat;
+#personal{
+    background-attachment: fixed;
+    background-image: url('../images/background.png');
+    background-position: center;
+    background-size: cover;
 }
