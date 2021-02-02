@@ -19,6 +19,12 @@ footer {
 #personal{
     background-attachment: fixed;
     background-image: url('../images/background.png');
-    background-position: center;
-    background-size: cover;
+    background-position: bottom;
+background-size:auto;
+}
+.cv-card{
+ 
+}
+.cv-title{
+text-align: center;
 }
