@@ -70,6 +70,12 @@ The photos used in this site were obtained from:
 
 <span>CV icon obtained from <a href="https://iconscout.com/icon/cv-151944">here</a></span>
 
+<span>Hotel icon obtained from <a href="https://www.iconexperience.com/o_collection/icons/?icon=hotel">here</a></span>
+
+<span>Tutor icon obtained from <a href="https://icon-library.com/icon/tutor-icon-1.html">here</a></span>
+
+<span>Transformers icon obtained from <a href="https://avatars.alphacoders.com/avatars/view/80557">here</a></span>
+
 <span>Background photo by <a href="https://unsplash.com/@laurenmancke?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Lauren Mancke</a> on <a href="https://unsplash.com/s/photos/portfolio-background?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
 
 Acknowledgements:

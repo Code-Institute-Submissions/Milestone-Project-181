@@ -22,9 +22,24 @@ footer {
     background-position: bottom;
     background-size:auto;
 }
-.cv-card{
- background-position: center;
+.icon{
+       background-position: center;
 }
-.cv-title{
+.card-title{
 text-align: center;
+}
+.progress-bar progress-bar-striped bg-success{
+
+}
+.progress-bar progress-bar-striped bg-info{
+
+}
+.progress-bar progress-bar-striped bg-danger{
+
+}
+.progress-bar progress-bar-striped bg-warning{
+
+}
+.progress-bar progress-bar-striped{
+
 }
