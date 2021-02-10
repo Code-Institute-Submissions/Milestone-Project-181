@@ -10,11 +10,6 @@ footer {
 .social-links li a i:hover {
     background: #e84610;
 }
-#myself{
-    background-attachment: fixed;
-    background-position: center;
-    background-size: cover;
-}
 #personal{
     background-attachment: fixed;
     background-image: url('../images/background.png');
@@ -22,26 +17,26 @@ footer {
     background-size:auto;
 }
 .icon{
-       background-position: center;
+          display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
 .me{
-    
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;  
 }
 .card-title{
 text-align: center;
 }
-.progress-bar progress-bar-striped bg-success{
+.footer{
+  text-align: center;  
+}
+.index{
 
 }
-.progress-bar progress-bar-striped bg-info{
-
-}
-.progress-bar progress-bar-striped bg-danger{
-
-}
-.progress-bar progress-bar-striped bg-warning{
-
-}
-.progress-bar progress-bar-striped{
-
+.title{
+    text-align: center;
 }
