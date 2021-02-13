@@ -34,9 +34,16 @@ text-align: center;
 .footer{
   text-align: center;  
 }
-.index{
 
-}
 .title{
+    text-align: center;
+}
+.my-title{
+  background-image: url('../images/blue_wall.png');
+    background-attachment: fixed;
+      background-position: bottom;
+    background-size:auto;   
+}
+.value{
     text-align: center;
 }
