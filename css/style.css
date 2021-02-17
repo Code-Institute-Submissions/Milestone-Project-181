@@ -6,10 +6,12 @@ footer {
 .social-links li a i {
     color: #fafafa;
     background: #8f8f8f;
+    text-align: center;
 
 }
 .social-links li a i:hover {
     background: #e84610;
+    text-align: center;
 }
 #personal,#about{
     background-attachment: fixed;
@@ -17,11 +19,13 @@ footer {
     background-position: bottom;
     background-size:auto;
 }
-
+h5{
+  text-align: center;  
+}
 .icon{
           display: block;
   margin: auto;
-  width: 25%;
+  width: 10%;
 }
 .me{
     display: block;
@@ -51,8 +55,11 @@ color: #fafafa;
 }
 .key{
 font-weight: bold;
-  text-align: left;
+  text-align: center;
 }
 p{
     text-align: center;
+}
+.reasons{    
+  text-align: center;
 }
