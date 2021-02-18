@@ -2,6 +2,7 @@
 footer {
     background-color: #525252;
     color: #fafafa;
+    text-align: center;
 }
 .social-links li a i {
     color: #fafafa;
@@ -17,49 +18,67 @@ footer {
     background-attachment: fixed;
     background-image: url('../images/background.png');
     background-position: bottom;
-    background-size:auto;
 }
 h5{
   text-align: center;  
 }
 .icon{
-          display: block;
-  margin: auto;
-  width: 10%;
+    display: block;
+    margin: auto;
+    width: 40%;
 }
 .me{
     display: block;
-  margin: auto;
+     margin: auto;
 }
 .card-title{
-text-align: center;
+    text-align: center;
 }
-.footer{
-  text-align: center;  
-}
-
 .title{
     text-align: center;
-    font-weight: bold;
-    
+    font-weight: bold; 
 }
-.my-title{
-  background-image: url('../images/blue_wall.png');
+#navigation{
+    background-image: url('../images/blue_wall.png');
     background-attachment: fixed;
-      background-position: center center;;
-    background-size:initial; 
-color: #fafafa;
+    background-position: center;
+    height: 100%;
+    width: 100%;
+    margin-bottom: 0px;
+}
+.my-title .name,
+.my-title .job-title{
+    text-align: center;
+    font-weight: bold;
+    color: #fafafa;
 }
 .value{
     text-align: center;
 }
 .key{
-font-weight: bold;
-  text-align: center;
-}
-p{
+    font-weight: bold;
     text-align: center;
 }
 .reasons{    
-  text-align: center;
+    text-align: left;
+}
+.personal-info{
+    margin-bottom: 20px;
+
+}
+
+.personal-info .key,
+.personal-info .value {
+    padding-right: 8px;
+    display: inline-block;
+}
+
+
+.personal-info .key {
+    width: 30%;
+}
+
+
+.personal-info .value {
+    width: 60%;
 }

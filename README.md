@@ -67,6 +67,12 @@ Used to design the site for mobile users and for other features.
 <strong>Deployment:</strong> 
 This website is hosted through GitHub Pages and any changes made to the website are shown almost immediately after pushing to GitHub.
 
+For the website to work an index html had to be created before GitHub Pages can display the website.
+
+To run locally, you can clone this repository directly into the editor of your choice by pasting `git clone https://github.com/SeanD17/Milestone-Project-1.git` into your terminal. 
+
+To cut ties with this GitHub repository, type `git remote rm origin` into the terminal.
+
 <strong>Credits</strong>
 
 <strong>Content:</strong>
@@ -91,10 +97,10 @@ The photos used in this site were obtained from:
 
 <span>LIT icon obtained from <a href="https://www.reddit.com/r/TheLeavingCert/comments/ix835j/lit_discord/">here</a></span>
 
-<span>NT icon obtained from <a href="https://stock.adobe.com/ie/images/letter-nt-crown-logo-icon-design-template-elements/201744729">here</a></span>
+<span>NT icon obtained from <a href="https://companiesmarketcap.com/northern-trust/revenue/">here</a></span>
 
 <strong>Acknowledgements:</strong>
 
-I received inspiration for this project from my mentor 
+I received inspiration for this project from my mentor Nishant Kumar.
 
-I also received inspiration from an Bootstrap mini project that was taught to use as part of our course
+I also received inspiration from an Bootstrap mini project that was taught to use as part of our course.
