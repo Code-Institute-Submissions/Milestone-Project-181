@@ -25,7 +25,7 @@ h5{
 .icon{
     display: block;
     margin: auto;
-    width: 40%;
+    width: 20%;
 }
 .me{
     display: block;
@@ -51,16 +51,6 @@ h5{
     text-align: center;
     font-weight: bold;
     color: #fafafa;
-}
-.value{
-    text-align: center;
-}
-.key{
-    font-weight: bold;
-    text-align: center;
-}
-.reasons{    
-    text-align: left;
 }
 .personal-info{
     margin-bottom: 20px;
