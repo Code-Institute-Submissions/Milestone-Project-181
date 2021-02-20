@@ -1,6 +1,6 @@
 
 footer {
-    background-color: #525252;
+    background-color: peru;
     color: #fafafa;
     text-align: center;
     margin: auto;
@@ -76,8 +76,10 @@ h5{
     width: 30%;
 }
 .reasons{
-    font-weight: bold;
+        font-weight: bold;
+        text-align: center;
 }
 p{
     color:black;
+            text-align: center;
 }

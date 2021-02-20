@@ -72,9 +72,21 @@ This website was tested through 3 Web Browsers, Microsoft Edge,Google Chrome and
 
 All three displayed the exact same website layout without any noticeable changes.
 
-The website was also tested on an Android smartphone and a Samsung Tablet.
+The Projects page has hyperlinks to websites i created in the past.
 
-The website has being designed to accommodate the screen sizes of smartphones and tablets, however one thing i noticed is when the tablet is set to be displayed like on a PC, some parts of the site are not aligned to the center, particularly the footer section and the About Me section on the homepage
+These links are behind the projects icons, i tried to figure out a way of getting an image of each sites homepage to use for background image but was unable to.
+
+All links on the site when clicked on will open to a new tab.
+
+On the CV page when the user clicks on the CV icon a copy of my CV will be opened in a new tab for users to view and download, however due to settings i have on Firefox, when i clicked on the icon it downloaded straight away to my download folder.
+
+The website was tested on an Android smartphone and a Samsung Tablet.
+
+The website has being designed to accommodate the screen sizes of smartphones and tablets, however one thing i noticed is when the tablet is set to be displayed like on a PC, some parts of the site are not aligned to the center, particularly the footer section and the About Me section on the homepage.
+
+This issue was resolved as it has turned out that because i was using the Bootstrap Grid System, i had set the col- size to 4, instead of setting it to 12.
+
+After changing this, the site layout on a PC now looked like the layout that was on the smartphone and tablet.
 
 <p align="center"><strong>Deployment:</strong> 
 
