@@ -1,11 +1,11 @@
 # Milestone-Project-1
-<strong>Milestone Project 1</strong>
+<p align="center"><strong>Milestone Project 1</strong>
 
-<strong>User-Centric Frontend Development</strong> 
+<p align="center"><strong>User-Centric Frontend Development</strong> 
 
-<strong>Code Institute</strong>
+<p align="center"><strong>Code Institute</strong>
 
-<strong>Personal Portfolio</strong>  
+<p align="center"><strong>Personal Portfolio</strong>  
 
 A personal portfolio site to display my education, skills and experience to prospective employers.
 
@@ -14,26 +14,30 @@ projects I have completed,a contact form and a page where you can download my CV
 
 [Link to website](https://seand17.github.io/Milestone-Project-1/) here to see the website.
 
-<strong>UX:</strong>
+<p align="center"><strong>UX:</strong>
 
-<strong>User Stories</strong>
+<p align="center"><strong>User Stories</strong>
 
 Recruiters would like to see the skills this person has listed on this website
 Employers  would like to see the projects this person has shown on this website.
 
-<strong>Wireframes</strong>
+<p align="center"><strong>Wireframes</strong>
 
 I have included wireframes for each page on this website, click on the below page names to see these wireframes:
 
 [Homepage](https://github.com/SeanD17/Milestone-Project-1/blob/main/wireframes/Milestone%20Project%201%20Homepage.pdf)
+
 [Skills & Experience](https://github.com/SeanD17/Milestone-Project-1/blob/main/wireframes/Milestone%20Project%201%20Skills.pdf)
+
 [Projects](https://github.com/SeanD17/Milestone-Project-1/blob/main/wireframes/Milestone%20Project%201%20Projects.pdf)
+
 [Contact](https://github.com/SeanD17/Milestone-Project-1/blob/main/wireframes/Milestone%20Project%201%20Contact.pdf)
+
 [Download CV](https://github.com/SeanD17/Milestone-Project-1/blob/main/wireframes/Milestone%20Project%201%20CV.pdf)
 
-<strong>Features</strong>
+<p align="center"><strong>Features</strong>
 
-<strong>Existing Features:</strong>
+<p align="center"><strong>Existing Features:</strong>
 
 <strong>Feature 1:</strong>
 
@@ -47,11 +51,11 @@ The download CV page allows Employers and Recruiters to download to a copy of my
 
 Each link that brings users to my projects will have a background image of the index of each projects pages as a preview.
 
-<strong>Features Left to Implement:</strong>
+<p align="center"><strong>Features Left to Implement:</strong>
 
 For the contact form i would like to be able to have any input entered in the fields to be sent to my personal email address, this will require some kind of security to prevent spam emails being sent to my mailbox.
 
-<strong>Technologies Used:</strong>
+<p align="center"><strong>Technologies Used:</strong>
 
 [HTML](https://html.com/)
 Used to create the structure of the web site.
@@ -62,9 +66,18 @@ Used to style the website
 [Bootstrap](https://getbootstrap.com/)
 Used to design the site for mobile users and for other features.
 
-<strong>Testing:</strong>
+<p align="center"><strong>Testing:</strong>
 
-<strong>Deployment:</strong> 
+This website was tested through 3 Web Browsers, Microsoft Edge,Google Chrome and Mozilla Firefox.
+
+All three displayed the exact same website layout without any noticeable changes.
+
+The website was also tested on an Android smartphone and a Samsung Tablet.
+
+The website has being designed to accommodate the screen sizes of smartphones and tablets, however one thing i noticed is when the tablet is set to be displayed like on a PC, some parts of the site are not aligned to the center, particularly the footer section and the About Me section on the homepage
+
+<p align="center"><strong>Deployment:</strong> 
+
 This website is hosted through GitHub Pages and any changes made to the website are shown almost immediately after pushing to GitHub.
 
 For the website to work an index html had to be created before GitHub Pages can display the website.
@@ -73,13 +86,13 @@ To run locally, you can clone this repository directly into the editor of your c
 
 To cut ties with this GitHub repository, type `git remote rm origin` into the terminal.
 
-<strong>Credits</strong>
+<p align="center"><strong>Credits</strong>
 
-<strong>Content:</strong>
+<p align="center"><strong>Content:</strong>
 
 All text content in this website was written by me.
 
-<strong>Media:</strong>
+<p align="center"><strong>Media:</strong>
 
 The photos used in this site were obtained from:
 
@@ -99,7 +112,7 @@ The photos used in this site were obtained from:
 
 <span>NT icon obtained from <a href="https://companiesmarketcap.com/northern-trust/revenue/">here</a></span>
 
-<strong>Acknowledgements:</strong>
+<p align="center"><strong>Acknowledgements:</strong>
 
 I received inspiration for this project from my mentor Nishant Kumar.
 
