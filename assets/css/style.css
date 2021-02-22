@@ -1,0 +1,98 @@
+
+footer {
+    background-color: peru;
+    color: #fafafa;
+    text-align: center;
+    margin: auto;
+}
+.social-links li a i {
+    color: #fafafa;
+    background: #8f8f8f;
+  
+}
+
+.social-links li a i:hover {
+    color: darkorange;
+    background: #8f8f8f;
+}
+#personal,#about{
+    background-attachment: fixed;
+    background-image: url('../images/background.png');
+    background-position: bottom;
+    margin: auto;
+}
+h5{
+  text-align: center;  
+}
+.icon{
+    display: block;
+    margin: auto;
+    width: 20%;
+}
+.me{
+    display: block;
+    margin: auto;
+}
+.card-body .card-title,
+.card-body .card-text
+{
+    text-align: center;
+}
+.title{
+    text-align: center;
+    font-weight: bold; 
+    
+}
+#navigation{
+    background-image: url('../images/blue_wall.png');
+    background-attachment: fixed;
+    background-position: center;
+    margin: auto;
+}
+.my-title .name,
+.my-title .job-title{
+    text-align: center;
+    font-weight: bold;
+    color: #fafafa;
+}
+.personal-info{
+    margin: 5px;
+
+}
+
+.personal-info .key,
+.personal-info .value {
+    display: inline-block;
+}
+
+
+.personal-info .key {
+    width: 30%;
+    font-weight: bold;
+}
+
+
+.personal-info .value {
+    width: 30%;
+}
+.reasons{
+        font-weight: bold;
+        text-align: center;
+}
+p{
+    color:black;
+            text-align: center;
+}
+.progress-bar progress-bar-danger progress-bar-striped{
+width: 50%;
+
+}
+.progress-bar progress-bar-warning progress-bar-striped{
+width: 50%;
+}
+.progress-bar progress-bar-info progress-bar-striped{
+width: 50%;
+}
+.progress-bar progress-bar-success progress-bar-striped{
+width: 50%;
+}

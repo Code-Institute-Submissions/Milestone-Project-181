@@ -12,9 +12,8 @@
         type="text/css" />
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/hover.css/2.1.1/css/hover-min.css"
         type="text/css" />
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
-    <link href="css/style.css" rel="stylesheet" type="text/css" />
+    
+    <link href="assets/css/style.css" rel="stylesheet" type="text/css" />
 
     <title>Contact Form</title>
 
@@ -57,7 +56,7 @@
         <div class="my-title">
             <h1 class='name'>Sean Dolan</h1>
             <p class='job-title'>Full-Stack Software Developer</p>
-            <img class="me" src="images/myself.png" alt="Myself">
+            <img class="me" src="assets/images/myself.png" alt="Myself">
         </div>
     </header>
     <div class="container-fluid" id="personal">
@@ -68,11 +67,14 @@
                 <div class="center-form">
                     <form>
                         <input type="text" name="name" id="fullname" class="form-control" placeholder="Name" required />
+                       <br/>
                         <input type="email" name="email" id="emailaddress" class="form-control" placeholder="Email"
                             required />
+                                  <br/>
                         <textarea rows="5" name="message" id="message" class="form-control"
                             placeholder="Write Message Here" required></textarea>
                         <div class="form-row text-center">
+                                  <br/>
                             <div class="col">
                                 <button type="submit" class="btn btn-secondary">Send Message by Email</button>
                             </div>
@@ -111,5 +113,6 @@
         </div>
     </footer>
 </body>
-
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
 </html>
