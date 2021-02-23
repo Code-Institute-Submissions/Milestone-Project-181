@@ -14,28 +14,39 @@ projects I have completed,a contact form and a page where you can download my CV
 
 [Link to website](https://seand17.github.io/Milestone-Project-1/) here to see the website.
 
-<p align="center"><strong>UX:</strong>
+## Table of Contents
+> - [UX](#ux)
+> - [User Stories](#user-stories)
+> - [Wireframes](#wireframes)
+> - [Features](#features)
+> - [Technologies Used](#technologies-used)
+> - [Testing](#testing)
+> - [Deployment](#deployment)
+> - [Credits](#credits)
+> - [Acknowledgments](#acknowledgements:)
 
-<p align="center"><strong>User Stories</strong>
+## UX:
+
+## User Stories:
 
 Recruiters would like to see the skills this person has listed on this website
 Employers  would like to see the projects this person has shown on this website.
 
-<p align="center"><strong>Wireframes</strong>
+## Wireframes:
 
 I have included wireframes for each page on this website, click on the below page names to see these wireframes:
 
-[Homepage](https://github.com/SeanD17/Milestone-Project-1/blob/main/wireframes/Milestone%20Project%201%20Homepage.pdf)
+[Homepage](https://github.com/SeanD17/Milestone-Project-1/blob/main/assets/wireframes/Milestone%20Project%201%20Homepage.pdf)
 
-[Skills & Experience](https://github.com/SeanD17/Milestone-Project-1/blob/main/wireframes/Milestone%20Project%201%20Skills.pdf)
+[Skills & Experience](https://github.com/SeanD17/Milestone-Project-1/blob/main/assets/wireframes/Milestone%20Project%201%20Skills.pdf)
 
-[Projects](https://github.com/SeanD17/Milestone-Project-1/blob/main/wireframes/Milestone%20Project%201%20Projects.pdf)
+[Projects](https://github.com/SeanD17/Milestone-Project-1/blob/main/assets/wireframes/Milestone%20Project%201%20Projects.pdf)
 
-[Contact](https://github.com/SeanD17/Milestone-Project-1/blob/main/wireframes/Milestone%20Project%201%20Contact.pdf)
+[Contact](https://github.com/SeanD17/Milestone-Project-1/blob/main/assets/wireframes/Milestone%20Project%201%20Contact.pdf)
 
-[Download CV](https://github.com/SeanD17/Milestone-Project-1/blob/main/wireframes/Milestone%20Project%201%20CV.pdf)
+[Download CV](https://github.com/SeanD17/Milestone-Project-1/blob/main/assets/wireframes/Milestone%20Project%201%20CV.pdf)
 
-<p align="center"><strong>Features</strong>
+## Features:
 
 <p align="center"><strong>Existing Features:</strong>
 
@@ -51,11 +62,11 @@ The download CV page allows Employers and Recruiters to download to a copy of my
 
 Each link that brings users to my projects will have a background image of the index of each projects pages as a preview.
 
-<p align="center"><strong>Features Left to Implement:</strong>
+ <p align="center"><strong>Features Left to Implement:</strong>
 
 For the contact form i would like to be able to have any input entered in the fields to be sent to my personal email address, this will require some kind of security to prevent spam emails being sent to my mailbox.
 
-<p align="center"><strong>Technologies Used:</strong>
+## Technologies Used:
 
 [HTML](https://html.com/)
 Used to create the structure of the web site.
@@ -66,7 +77,7 @@ Used to style the website
 [Bootstrap](https://getbootstrap.com/)
 Used to design the site for mobile users and for other features.
 
-<p align="center"><strong>Testing:</strong>
+## Testing:
 
 This website was tested through 3 Web Browsers, Microsoft Edge,Google Chrome and Mozilla Firefox.
 
@@ -88,7 +99,7 @@ This issue was resolved as it has turned out that because i was using the Bootst
 
 After changing this, the site layout on a PC now looked like the layout that was on the smartphone and tablet.
 
-<p align="center"><strong>Deployment:</strong> 
+## Deployment:
 
 This website is hosted through GitHub Pages and any changes made to the website are shown almost immediately after pushing to GitHub.
 
@@ -98,13 +109,13 @@ To run locally, you can clone this repository directly into the editor of your c
 
 To cut ties with this GitHub repository, type `git remote rm origin` into the terminal.
 
-<p align="center"><strong>Credits</strong>
+## Credits:
 
-<p align="center"><strong>Content:</strong>
+## Content:
 
 All text content in this website was written by me.
 
-<p align="center"><strong>Media:</strong>
+## Media:
 
 The photos used in this site were obtained from:
 
@@ -124,7 +135,7 @@ The photos used in this site were obtained from:
 
 <span>NT icon obtained from <a href="https://companiesmarketcap.com/northern-trust/revenue/">here</a></span>
 
-<p align="center"><strong>Acknowledgements:</strong>
+## Acknowledgments:
 
 I received inspiration for this project from my mentor Nishant Kumar.
 
