@@ -3,30 +3,21 @@ footer {
     background-color: peru;
     color: #fafafa;
     text-align: center;
-    margin: auto;
     padding:25px;
 }
 .social-links li a i {
     color: #fafafa;
     background: #8f8f8f;
-  
-}
-.fa-github{
-width:200px;
-}
-.fa-linkedin{
-width:200px;
+    font-size: 25px;
 }
 .social-links li a i:hover {
     color: darkorange;
     background: #8f8f8f;
-    width:200px;
 }
 #personal,#about{
     background-attachment: fixed;
     background-image: url('../images/background.png');
     background-position: bottom;
-    margin: auto;
 }
 h5{
   text-align: center;  
@@ -91,16 +82,4 @@ p{
     color:black;
             text-align: center;
 }
-.progress-bar progress-bar-danger progress-bar-striped{
-width: 50%;
 
-}
-.progress-bar progress-bar-warning progress-bar-striped{
-width: 50%;
-}
-.progress-bar progress-bar-info progress-bar-striped{
-width: 50%;
-}
-.progress-bar progress-bar-success progress-bar-striped{
-width: 50%;
-}

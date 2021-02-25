@@ -23,14 +23,19 @@ projects I have completed,a contact form and a page where you can download my CV
 > - [Testing](#testing)
 > - [Deployment](#deployment)
 > - [Credits](#credits)
-> - [Acknowledgments](#acknowledgements:)
+> - [Acknowledgments](#acknowledgements)
 
 ## UX:
 
 ## User Stories:
 
 Recruiters would like to see the skills this person has listed on this website
+
+![Skills](https://github.com/SeanD17/Milestone-Project-1/blob/0681d00ed4b850d150ac367161183e818a25f282/assets/images/user_stories_skills.png)
+
 Employers  would like to see the projects this person has shown on this website.
+
+![Projects](https://github.com/SeanD17/Milestone-Project-1/blob/0681d00ed4b850d150ac367161183e818a25f282/assets/images/user_stories_projects.png)
 
 ## Wireframes:
 
@@ -135,7 +140,7 @@ The photos used in this site were obtained from:
 
 <span>NT icon obtained from <a href="https://companiesmarketcap.com/northern-trust/revenue/">here</a></span>
 
-## Acknowledgments:
+# Acknowledgments:
 
 I received inspiration for this project from my mentor Nishant Kumar.
 
