@@ -14,6 +14,7 @@ projects I have completed,a contact form and a page where you can download my CV
 
 [Link to website](https://seand17.github.io/Milestone-Project-1/) here to see the website.
 
+![Website](https://github.com/SeanD17/Milestone-Project-1/blob/298bbd75a7025796b8167ab1fa4e658282b695b1/assets/images/responsive.png)
 ## Table of Contents
 > - [UX](#ux)
 > - [User Stories](#user-stories)
@@ -31,11 +32,11 @@ projects I have completed,a contact form and a page where you can download my CV
 
 Recruiters would like to see the skills this person has listed on this website
 
-![Skills](https://github.com/SeanD17/Milestone-Project-1/blob/0681d00ed4b850d150ac367161183e818a25f282/assets/images/user_stories_skills.png)
+![Skills](https://github.com/SeanD17/Milestone-Project-1/blob/298bbd75a7025796b8167ab1fa4e658282b695b1/assets/images/user_stories_skills.png)
 
 Employers  would like to see the projects this person has shown on this website.
 
-![Projects](https://github.com/SeanD17/Milestone-Project-1/blob/0681d00ed4b850d150ac367161183e818a25f282/assets/images/user_stories_projects.png)
+![Projects](https://github.com/SeanD17/Milestone-Project-1/blob/298bbd75a7025796b8167ab1fa4e658282b695b1/assets/images/user_stories_projects.png)
 
 ## Wireframes:
 
@@ -104,6 +105,11 @@ This issue was resolved as it has turned out that because i was using the Bootst
 
 After changing this, the site layout on a PC now looked like the layout that was on the smartphone and tablet.
 
+On the Contact form page of the website, the name and email fields are required and must be filled before clicking the submit button. 
+
+At the moment, once a user clicks on the Submit button,nothing happens. 
+
+In the future i plan to build the form so that messages will be sent to my email.
 ## Deployment:
 
 This website is hosted through GitHub Pages and any changes made to the website are shown almost immediately after pushing to GitHub.
@@ -140,7 +146,7 @@ The photos used in this site were obtained from:
 
 <span>NT icon obtained from <a href="https://companiesmarketcap.com/northern-trust/revenue/">here</a></span>
 
-# Acknowledgments:
+## Acknowledgments:
 
 I received inspiration for this project from my mentor Nishant Kumar.
 
