@@ -14,7 +14,7 @@ projects I have completed,a contact form and a page where you can download my CV
 
 [Link to website](https://seand17.github.io/Milestone-Project-1/) here to see the website.
 
-![Website](https://github.com/SeanD17/Milestone-Project-1/blob/298bbd75a7025796b8167ab1fa4e658282b695b1/assets/images/responsive.png)
+![Website](https://github.com/SeanD17/Milestone-Project-1/blob/a0a0370ec94c7477f915a6c3763a0d37667de878/assets/images/responsive.png)
 ## Table of Contents
 > - [UX](#ux)
 > - [User Stories](#user-stories)
@@ -24,7 +24,7 @@ projects I have completed,a contact form and a page where you can download my CV
 > - [Testing](#testing)
 > - [Deployment](#deployment)
 > - [Credits](#credits)
-> - [Acknowledgments](#acknowledgements)
+> - [Acknowledgments](#acknowledgments)
 
 ## UX:
 
