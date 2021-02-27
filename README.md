@@ -14,7 +14,7 @@ projects I have completed,a contact form and a page where you can download my CV
 
 [Link to website](https://seand17.github.io/Milestone-Project-1/) here to see the website.
 
-![Website](https://github.com/SeanD17/Milestone-Project-1/blob/a0a0370ec94c7477f915a6c3763a0d37667de878/assets/images/responsive.png)
+![Website](https://github.com/SeanD17/Milestone-Project-1/blob/f0d881053ccf1516383f9ba8685646f6a72bada6/assets/images/responsive.png)
 
 ## Table of Contents
 > - [UX](#ux)
@@ -202,16 +202,15 @@ For the blue background image, i added margin to the bottom as the image was too
 
 When viewing the the website through [AmIResponsive](http://ami.responsivedesign.is/),i noticed that on the screens of the PC monitor and tablet, there was whitespace after the footer that does not appear on the mobile and applebook view.
 
-![Bug](https://github.com/SeanD17/Milestone-Project-1/blob/a4b7eb5c892b7df69376706752b4667303cdccbe/assets/images/whitespace%20footer%20index.png)
+![Bug](https://github.com/SeanD17/Milestone-Project-1/blob/f0d881053ccf1516383f9ba8685646f6a72bada6/assets/images/whitespace%20footer%20index.png)
 
 This whitespace would only appear on the index,the contact and the download CV pages viewed on a tablet and PC, the other pages did not have this whitespace.
 
-![Bug](https://github.com/SeanD17/Milestone-Project-1/blob/a4b7eb5c892b7df69376706752b4667303cdccbe/assets/images/whitespace%20footer%20contact.png)
+![Bug](https://github.com/SeanD17/Milestone-Project-1/blob/f0d881053ccf1516383f9ba8685646f6a72bada6/assets/images/whitespace%20footer%20contact.png)
 
-![Bug](https://github.com/SeanD17/Milestone-Project-1/blob/a4b7eb5c892b7df69376706752b4667303cdccbe/assets/images/whitespace%20footer%20cv.png)
+![Bug](https://github.com/SeanD17/Milestone-Project-1/blob/f0d881053ccf1516383f9ba8685646f6a72bada6/assets/images/whitespace%20footer%20cv.png)
 
 I tried adding 0 margin to the top and padding of 0 to the footer but this had no effect.
-
 
 ## Deployment:
 
