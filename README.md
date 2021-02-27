@@ -48,7 +48,7 @@ As an Employer:
 
 "I would like to be able to see what this person has to say the reasons they would want to be hired"
 
-![Why Hire Me](https://github.com/SeanD17/Milestone-Project-1/blob/830c5c830bbd6d1de8de43ff11a9aa7a20092e2e/assets/images/user_stories_about_me.png)
+![Why Hire Me](https://github.com/SeanD17/Milestone-Project-1/blob/46ca810a02480fa16fc52e61c102c1b2901b9dce/assets/images/user_stories_about_me.png)
 
 "I would like to be able to see the projects this person has created on this website."
 
@@ -63,19 +63,19 @@ As a Recruiter:
 
 "I would to see if this person has a professional social media presence on GitHub and LinkedIn".
 
-![Social Media Links](https://github.com/SeanD17/Milestone-Project-1/blob/830c5c830bbd6d1de8de43ff11a9aa7a20092e2e/assets/images/user_stories_social_media_links.png)
+![Social Media Links](https://github.com/SeanD17/Milestone-Project-1/blob/46ca810a02480fa16fc52e61c102c1b2901b9dce/assets/images/user_stories_social_media_links.png)
 
 "I would like to know more about this person, particularly on how to contact them".
 
-![About Me](https://github.com/SeanD17/Milestone-Project-1/blob/830c5c830bbd6d1de8de43ff11a9aa7a20092e2e/assets/images/user_stories_about_me.png)
+![About Me](https://github.com/SeanD17/Milestone-Project-1/blob/46ca810a02480fa16fc52e61c102c1b2901b9dce/assets/images/user_stories_basic_details.png)
 
 "I would like to know how to send a message directly through them, perhaps by a form".
 
-![Contact Me](https://github.com/SeanD17/Milestone-Project-1/blob/830c5c830bbd6d1de8de43ff11a9aa7a20092e2e/assets/images/user_stories_contact_me.png)
+![Contact Me](https://github.com/SeanD17/Milestone-Project-1/blob/46ca810a02480fa16fc52e61c102c1b2901b9dce/assets/images/user_stories_contact_me.png)
 
 "I would like to download this person's CV to be used physically for future reference".
 
-![Download My CV]()
+![Download My CV](https://github.com/SeanD17/Milestone-Project-1/blob/46ca810a02480fa16fc52e61c102c1b2901b9dce/assets/images/user_stories_cv.png)
 
 ## Strategy:
 
@@ -109,15 +109,15 @@ I used Font Awesome for the social media icons of GitHub and LinkedIn.
 
 I have included wireframes for each page on this website, click on the below page names to see these wireframes:
 
-[Homepage](https://github.com/SeanD17/Milestone-Project-1/blob/6977be3aec139510a58ddc2def57e8ef4feddbbd/assets/wireframes/Homepage.pdf)
+[Homepage](https://github.com/SeanD17/Milestone-Project-1/blob/46ca810a02480fa16fc52e61c102c1b2901b9dce/assets/wireframes/Homepage.pdf)
 
-[Skills & Experience](https://github.com/SeanD17/Milestone-Project-1/blob/6977be3aec139510a58ddc2def57e8ef4feddbbd/assets/wireframes/Skills.pdf)
+[Skills & Experience](https://github.com/SeanD17/Milestone-Project-1/blob/46ca810a02480fa16fc52e61c102c1b2901b9dce/assets/wireframes/Skills.pdf)
 
-[Projects](https://github.com/SeanD17/Milestone-Project-1/blob/6977be3aec139510a58ddc2def57e8ef4feddbbd/assets/wireframes/Projects.pdf)
+[Projects](https://github.com/SeanD17/Milestone-Project-1/blob/46ca810a02480fa16fc52e61c102c1b2901b9dce/assets/wireframes/Projects.pdf)
 
-[Contact](https://github.com/SeanD17/Milestone-Project-1/blob/6977be3aec139510a58ddc2def57e8ef4feddbbd/assets/wireframes/Contact.pdf)
+[Contact](https://github.com/SeanD17/Milestone-Project-1/blob/46ca810a02480fa16fc52e61c102c1b2901b9dce/assets/wireframes/Contact.pdf)
 
-[Download CV](https://github.com/SeanD17/Milestone-Project-1/blob/6977be3aec139510a58ddc2def57e8ef4feddbbd/assets/wireframes/CV.pdf)
+[Download CV](https://github.com/SeanD17/Milestone-Project-1/blob/46ca810a02480fa16fc52e61c102c1b2901b9dce/assets/wireframes/CV.pdf)
 
 ## Features:
 
