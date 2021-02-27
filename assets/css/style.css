@@ -3,9 +3,7 @@ footer {
     background-color: peru;
     color: #fafafa;
     text-align: center;
-    margin-bottom: auto;
-    height:auto;
-    width:auto;
+    margin-bottom: 0;
 }
 .social-links li a i {
     color: #fafafa;
@@ -20,9 +18,7 @@ footer {
     background-attachment: fixed;
     background-image: url('../images/background.png');
     background-position: bottom;
-    margin-bottom: auto;
-    height:auto;
-    width:auto;
+    margin-bottom: 0;
 }
 h5{
   text-align: center;  
@@ -50,9 +46,7 @@ h5{
     background-image: url('../images/blue_wall.png');
     background-attachment: fixed;
     background-position: center;
-    margin-bottom: auto;
-    height:auto;
-    width:auto;
+    margin-bottom: 0;
 }
 .my-title .name,
 .my-title .job-title{
