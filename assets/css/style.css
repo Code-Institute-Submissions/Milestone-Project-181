@@ -3,7 +3,6 @@ footer {
     background-color: peru;
     color: #fafafa;
     text-align: center;
-    margin-top: 0;
     padding-top:20px;
     padding-bottom:20px;
 }
@@ -51,7 +50,7 @@ h5{
     background-image: url('../images/blue_wall.png');
     background-attachment: fixed;
     background-position: center;
-    margin-bottom: 0;
+    margin:auto;
 }
 .my-title .name,
 .my-title .job-title{
