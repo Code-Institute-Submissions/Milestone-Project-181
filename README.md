@@ -43,13 +43,39 @@ projects I have completed,a contact form and a page where you can download my CV
 
 ## User Stories:
 
-Recruiters would like to see the skills this person has listed on this website
+
+As an Employer:
+
+"I would like to be able to see what this person has to say the reasons they would want to be hired"
+
+![Why Hire Me](https://github.com/SeanD17/Milestone-Project-1/blob/830c5c830bbd6d1de8de43ff11a9aa7a20092e2e/assets/images/user_stories_about_me.png)
+
+"I would like to be able to see the projects this person has created on this website."
+
+![Projects](https://github.com/SeanD17/Milestone-Project-1/blob/298bbd75a7025796b8167ab1fa4e658282b695b1/assets/images/user_stories_projects.png)
+
+
+As a Recruiter:
+
+"I would like to see the skills this person has listed on their website".
 
 ![Skills](https://github.com/SeanD17/Milestone-Project-1/blob/298bbd75a7025796b8167ab1fa4e658282b695b1/assets/images/user_stories_skills.png)
 
-Employers  would like to see the projects this person has shown on this website.
+"I would to see if this person has a professional social media presence on GitHub and LinkedIn".
 
-![Projects](https://github.com/SeanD17/Milestone-Project-1/blob/298bbd75a7025796b8167ab1fa4e658282b695b1/assets/images/user_stories_projects.png)
+![Social Media Links](https://github.com/SeanD17/Milestone-Project-1/blob/830c5c830bbd6d1de8de43ff11a9aa7a20092e2e/assets/images/user_stories_social_media_links.png)
+
+"I would like to know more about this person, particularly on how to contact them".
+
+![About Me](https://github.com/SeanD17/Milestone-Project-1/blob/830c5c830bbd6d1de8de43ff11a9aa7a20092e2e/assets/images/user_stories_about_me.png)
+
+"I would like to know how to send a message directly through them, perhaps by a form".
+
+![Contact Me](https://github.com/SeanD17/Milestone-Project-1/blob/830c5c830bbd6d1de8de43ff11a9aa7a20092e2e/assets/images/user_stories_contact_me.png)
+
+"I would like to download this person's CV to be used physically for future reference".
+
+![Download My CV]()
 
 ## Strategy:
 
@@ -57,11 +83,11 @@ I wanted to create a user friendly website to show the necessary information for
 
 ## Scope:
 
-I wanted to provide users a preview of projects i have created and the skills i have.
+I wanted to provide users a preview of projects i have created and the skills I have.
 
 ## Structure:
 
-I wanted to provide my basic information to users, then point them towards the projects i have created,with links to each live project included.
+I wanted to provide my basic information to users, then point them towards the projects I have created,with links to each live project included.
 
 I also provided my profile links to GitHub and LinkedIn, as well as creating a form for users to contact me. 
 
@@ -83,15 +109,15 @@ I used Font Awesome for the social media icons of GitHub and LinkedIn.
 
 I have included wireframes for each page on this website, click on the below page names to see these wireframes:
 
-[Homepage](https://github.com/SeanD17/Milestone-Project-1/blob/main/assets/wireframes/Milestone%20Project%201%20Homepage.pdf)
+[Homepage](https://github.com/SeanD17/Milestone-Project-1/blob/6977be3aec139510a58ddc2def57e8ef4feddbbd/assets/wireframes/Homepage.pdf)
 
-[Skills & Experience](https://github.com/SeanD17/Milestone-Project-1/blob/main/assets/wireframes/Milestone%20Project%201%20Skills.pdf)
+[Skills & Experience](https://github.com/SeanD17/Milestone-Project-1/blob/6977be3aec139510a58ddc2def57e8ef4feddbbd/assets/wireframes/Skills.pdf)
 
-[Projects](https://github.com/SeanD17/Milestone-Project-1/blob/main/assets/wireframes/Milestone%20Project%201%20Projects.pdf)
+[Projects](https://github.com/SeanD17/Milestone-Project-1/blob/6977be3aec139510a58ddc2def57e8ef4feddbbd/assets/wireframes/Projects.pdf)
 
-[Contact](https://github.com/SeanD17/Milestone-Project-1/blob/main/assets/wireframes/Milestone%20Project%201%20Contact.pdf)
+[Contact](https://github.com/SeanD17/Milestone-Project-1/blob/6977be3aec139510a58ddc2def57e8ef4feddbbd/assets/wireframes/Contact.pdf)
 
-[Download CV](https://github.com/SeanD17/Milestone-Project-1/blob/main/assets/wireframes/Milestone%20Project%201%20CV.pdf)
+[Download CV](https://github.com/SeanD17/Milestone-Project-1/blob/6977be3aec139510a58ddc2def57e8ef4feddbbd/assets/wireframes/CV.pdf)
 
 ## Features:
 
@@ -103,7 +129,7 @@ The navigation bar on the top will stay to the screen when the user scrolls down
 
 <strong>Feature 2:</strong>
 
-The download CV page allows Employers and Recruiters to download to a copy of my CV in pdf form.
+The download CV page allows Employers and Recruiters to download a copy of my CV in pdf form.
 
 <strong>Feature 3:</strong>
 
@@ -111,7 +137,7 @@ Each link that brings users to my projects will have a background image of the i
 
 ## Features Left to Implement:
 
-For the contact form i would like to be able to have any input entered in the fields to be sent to my personal email address, this will require some kind of security to prevent spam emails being sent to my mailbox.
+For the contact form I would like to be able to have any input entered in the fields to be sent to my personal email address, this will require some kind of security to prevent spam emails being sent to my mailbox.
 
 ## Technologies Used:
 
@@ -154,7 +180,7 @@ This website was tested through 3 Web Browsers, Microsoft Edge,Google Chrome and
 
 All three displayed the exact same website layout without any noticeable changes.
 
-The Projects page has hyperlinks to websites i created in the past.
+The Projects page has hyperlinks to websites I created in the past.
 
 These links are behind the projects icons.
 
@@ -170,49 +196,67 @@ On the Contact form page of the website, the name and email fields are required 
 
 At the moment, once a user clicks on the Submit button,nothing happens. 
 
-In the future i plan to build the form so that messages will be sent to my email.
+In the future I plan to build the form so that messages will be sent to my email.
 
 ## Validation:
 
 HTML - [W3C](https://validator.w3.org/) - Markup Validation
 
-![HTML](https://github.com/SeanD17/Milestone-Project-1/blob/b5e7b427f3f9af53f4bac3cef16bbb01a1a294d4/assets/images/markup.png)
+[Index Validation Result](https://validator.w3.org/nu/?doc=https%3A%2F%2Fseand17.github.io%2FMilestone-Project-1%2F)
+
+[Skills & Experience Validation Result](https://validator.w3.org/nu/?doc=https%3A%2F%2Fseand17.github.io%2FMilestone-Project-1%2Fskills_and_experience.html)
+
+[Projects Validation Result](https://validator.w3.org/nu/?doc=https%3A%2F%2Fseand17.github.io%2FMilestone-Project-1%2Fprojects.html)
+
+[Contact Validation Result](https://validator.w3.org/nu/?doc=https%3A%2F%2Fseand17.github.io%2FMilestone-Project-1%2Fcontact.html)
+
+[CV Validation Result](https://validator.w3.org/nu/?doc=https%3A%2F%2Fseand17.github.io%2FMilestone-Project-1%2Fcv.html)
 
 CSS - [W3C](https://jigsaw.w3.org/css-validator/) - CSS Validation
 
-![CSS](https://github.com/SeanD17/Milestone-Project-1/blob/b5e7b427f3f9af53f4bac3cef16bbb01a1a294d4/assets/images/cSS.png)
+[Validation Result](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fseand17.github.io%2FMilestone-Project-1%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
 
 ## Project Bugs and Solutions:
 
-For the links that are behind the projects icons, i tried to figure out a way of getting an image of each sites homepage to use for background image but was unable to,so icons were used instead.
+For the links that are behind the projects icons, I tried to figure out a way of getting an image of each sites homepage to use for background image but was unable to,so icons were used instead.
 
-Fixed the location of the CV pdf file i add linked to in the CV section due to moving the CV to the assets folder,however due to settings i have on Firefox, when i clicked on the CV icon it downloaded straight away to my download folder.
+Fixed the location of the CV pdf file I had linked to in the CV section due to moving the CV to the assets folder,however due to settings I have on Firefox, when I clicked on the CV icon it downloaded straight away to my download folder.
 
 Removed the horizontal scrollbar that was visible on the website, was caused by not having the row div class in the footer being wrapped inside the container fluid div class.
 
-One thing i noticed is when viewed on the tablet and is set to be displayed like on a PC through the Rotate button, some parts of the site were not aligned to the center, particularly the footer section and the About Me section on the homepage.
+One thing I noticed is when viewed on the tablet and is set to be displayed like on a PC through the Rotate button, some parts of the site were not aligned to the center, particularly the footer section and the About Me section on the homepage.
 
-This issue was resolved as it has turned out that because i was using the Bootstrap Grid System, i had set the col- size to 4, instead of setting it to 12.
+This issue was resolved as it has turned out that because I was using the Bootstrap Grid System, I had set the col- size to 4, instead of setting it to 12.
 
 After changing this, the site layout on a PC now looked like the layout that was on the smartphone and tablet.
 
-For the blue background image, i added margin to the bottom as the image was too small and would leave whitespace below it.
+For the blue background image, I added margin to the bottom as the image was too small and would leave whitespace below it.
 
 ## Remaining bugs: 
 
-When viewing the the website through [AmIResponsive](http://ami.responsivedesign.is/),i noticed that on the screens of the PC monitor and tablet, there was whitespace after the footer that does not appear on the mobile and applebook view.
+When viewing the the website through [AmIResponsive](http://ami.responsivedesign.is/),I noticed that on the screens of the PC monitor and tablet, there was whitespace after the footer that does not appear on the mobile and applebook view.
 
 ![Bug](https://github.com/SeanD17/Milestone-Project-1/blob/f0d881053ccf1516383f9ba8685646f6a72bada6/assets/images/whitespace%20footer%20index.png)
 
 This whitespace would only appear on the index,the contact and the download CV pages viewed on a tablet and PC, the other pages did not have this whitespace.
 
-![Bug](https://github.com/SeanD17/Milestone-Project-1/blob/f0d881053ccf1516383f9ba8685646f6a72bada6/assets/images/whitespace%20footer%20contact.png)
-
-![Bug](https://github.com/SeanD17/Milestone-Project-1/blob/f0d881053ccf1516383f9ba8685646f6a72bada6/assets/images/whitespace%20footer%20cv.png)
-
 I tried adding 0 margin to the top and padding of 0 to the footer but this had no effect.
 
 ## Deployment:
+
+Once a GIthub account was created, I opened a new repository by clicking the green button "new". To create this project, I used the Code Institute's student [template](https://github.com/Code-Institute-Org/gitpod-full-template).
+
+Click on the green "gitpod" button where one is redirected to to [Gitpod](https://gitpod.io/)
+
+Gitpod, a cloud-based version control software or IDE was used to write all code for this project.
+
+It was then pushed or saved in the terminal to Github where it is stored in a [repository](https://github.com/SeanD17/Milestone-Project-1)
+
+Under "Settings", I scrolled down to Github Pages and selected "Master Branch" under source, to where the page was automated.
+
+Once this was selected, the project was pushed to Github pages and the URL is then displayed
+
+To access the code, it can be run locally by either selecting "clone" which provides an URL one can use on their local machine or "download" which is where one can download the zip file on to their machine.
 
 This website is hosted through GitHub Pages and any changes made to the website are shown almost immediately after pushing to GitHub.
 
