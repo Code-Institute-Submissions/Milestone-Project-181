@@ -176,11 +176,11 @@ In the future i plan to build the form so that messages will be sent to my email
 
 HTML - [W3C](https://validator.w3.org/) - Markup Validation
 
-![HTML](https://github.com/SeanD17/Milestone-Project-1/blob/a4b7eb5c892b7df69376706752b4667303cdccbe/assets/images/markup.png)
+![HTML](https://github.com/SeanD17/Milestone-Project-1/blob/b5e7b427f3f9af53f4bac3cef16bbb01a1a294d4/assets/images/markup.png)
 
 CSS - [W3C](https://jigsaw.w3.org/css-validator/) - CSS Validation
 
-![CSS](https://github.com/SeanD17/Milestone-Project-1/blob/a4b7eb5c892b7df69376706752b4667303cdccbe/assets/images/cSS.png)
+![CSS](https://github.com/SeanD17/Milestone-Project-1/blob/b5e7b427f3f9af53f4bac3cef16bbb01a1a294d4/assets/images/cSS.png)
 
 ## Project Bugs and Solutions:
 
